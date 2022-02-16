@@ -17,4 +17,4 @@ Objectives
 - practise my knowledge 
 - make sure to check on time for the assignment
 - keep up with deadlines
-- overcome my previous traumatic experience with Git and finally lern how to use it 
+- overcome my previous traumatic experience with Git and finally lern how to adjust to it 
